@@ -1,0 +1,428 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+    float: left;
+    background: #87509C;
+    padding: 11px 0px;
+}
+
+.container {
+    width: 1140px;
+    margin: 0px auto;
+}
+
+.logo {
+    float: left;
+    width: 45%;
+}
+
+.logo img {
+    margin-top: 10px;
+}
+
+.menu {
+    width: 55%;
+    float: left;
+    font-size: 22px;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin: 22px 23px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    padding: 11px;
+    color: white;
+}
+
+.para {
+    text-align: center;
+    padding-bottom: 49px;
+    padding-top: 102px;
+}
+
+.para p {
+    font-size: 35px;
+    color: #fff;
+}
+
+.para h2 {
+    font-size: 39px;
+    color: #fff;
+}
+
+.para h3 {
+    font-size: 35px;
+    color: #fff;
+    padding-bottom: 15px;
+}
+
+.btn {
+    background: #EB7D4B;
+    text-align: center;
+    color: white;
+    border: none;
+    font-size: 22px;
+    padding: 6px;
+}
+
+
+/*header section end*/
+
+
+/*service section start*/
+
+.service {
+    float: left;
+    width: 100%;
+    background: #17C2A4;
+    padding: 36px 0px;
+}
+
+.service-provide {
+    text-align: center;
+}
+
+.service-provide h1 {}
+
+.service-provide span {
+    border-bottom: 2px solid black;
+    display: block;
+    width: 10%;
+    margin: 12px auto;
+}
+
+.service-provide p {
+    margin: 0px 249px;
+    line-height: 11px 0px;
+    padding: 11px 0px;
+}
+
+.branding {
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.branding-one {
+    float: left;
+    width: 25%;
+}
+
+.branding-one img {}
+
+.branding-one h3 {
+    color: white;
+    margin: 10px 0px;
+}
+
+.branding-one p {
+    color: white;
+}
+
+
+/*social section end*/
+
+
+/*social section start*/
+
+.social {
+    width: 100%;
+    float: left;
+    padding: 33px opx;
+    background: #D3D3D3;
+}
+
+.social-act {
+    padding: 21px 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.social-act h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.social-act span {
+    border-bottom: 2px solid black;
+    display: block;
+    width: 10%;
+    margin: 12px auto;
+}
+
+.social-act p {
+    padding: 10px 325px;
+}
+
+.ceo-one {
+    float: left;
+    width: 22%;
+    padding: 12px 16px;
+}
+
+.ceo-one img {
+    display: block;
+    width: 100%;
+}
+
+.ceo-one h2 {}
+
+.ceo-one h6 {
+    color: #581A8B
+}
+
+.ceo-one p {
+    padding-top: 20px;
+}
+
+.ceo-one ul {
+    list-style: none;
+}
+
+.ceo-one ul li {
+    display: inline-block;
+    margin: 10px;
+}
+
+.ceo-one ul li a {
+    text-decoration: none;
+}
+
+
+/*social section end*/
+
+
+/*skill section start*/
+
+.skill {
+    width: 100%;
+    float: left;
+    padding: 33px 0px;
+}
+
+.skill-act {
+    width: 46%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 33px 0px;
+    background: #FFFFFF;
+}
+
+.skill-act h2 {}
+
+.skill-act span {
+    display: block;
+    width: 15%;
+    border-bottom: 2px solid;
+    margin: 13px auto;
+}
+
+
+}
+.skill-act p {}
+.design {}
+.design-one {
+    float: left;
+    text-align: center;
+    width: 22%;
+}
+
+/*skill section end*/
+
+/*portfolio section start*/
+.portfolio {
+    float: left;
+    width: 100%;
+    padding: 33px 0px;
+    background: #FFDD99;
+}
+.portfolio-act {
+    margin: 0 auto;
+    text-align: center;
+    width: 44%;
+}
+.portfolio-act h2 {
+    padding: 10px 0px;
+}
+.portfolio-act span {
+    display: block;
+    border-bottom: 2px solid black;
+    width: 6%;
+    text-align: center;
+    margin: 0 auto;
+}
+.portfolio-act p {
+    padding: 15px 0px;
+}
+.filter {
+    color: #ffff;
+    text-align: center;
+    margin-bottom: 45px;
+}
+.mock-up {
+    float: left;
+    width: 50%;
+    margin-bottom: 15px;
+}
+.mock-up img {}
+.mock-up h4 {
+    text-align: center;
+    margin-top: 11px;
+}
+.port-btn {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    background: #30D0C1;
+    color: #ffff;
+    border: none;
+    padding: 7px 11px;
+    margin-left: 469px;
+}
+
+/*portfolio section end*/
+
+/*testimonial section start*/
+.testimonial {
+    float: left;
+    width: 100%;
+    padding: 33px 0px;
+    background: #D74680;
+}
+.testimonial-act {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+.testimonial-act h2 {
+    color: #ffff;
+    margin: 18px 0px;
+}
+.testimonial-act span {
+    display: block;
+    border-bottom: 2px solid black;
+    width: 6%;
+    text-align: center;
+    margin: 0 auto;
+}
+.testimonial-act h5 {
+    margin: 20px 0px;
+    color: #ffff;
+}
+.testimonial-style {
+    float: left;
+    width: 50%;
+}
+.testimonial-style img {
+    display: block;
+    width: 69px;
+    float: left;
+    padding: 0px 11px;
+}
+.testimonial-style p {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Parisienne', cursive;
+    font-size: 14px;
+    line-height: 15px;
+    color: #ffff;
+    padding: 11px 0px;
+}
+.testimonial-style h2 {
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #ffff;
+}
+.testimonial-style h4 {
+    font-size: 12px;
+    color: #ffff;
+}
+
+/*testimonial section end*/
+
+/*text section start*/
+.text {
+    width: 100%;
+    float: left;
+    padding: 33px 0px;
+    background: #3C5499;
+}
+.text-act {
+    margin: 0 auto;
+    width: 53%;
+    text-align: center;
+}
+.text-act h2 {
+    color: #fff;
+    margin: 12px 0px;
+}
+.text-act span {
+    border-bottom: 1px solid black;
+    display: block;
+    width: 8%;
+    text-align: center;
+    margin: 0px auto;
+}
+.text-act p {
+    color: #ffff;
+    padding: 12px 0px;
+}
+.contact-box {
+    margin: 0 auto;
+    width: 53%;
+}
+.form-control {
+    background: #0D3252;
+    width: 43%;
+    height: 24px;
+    width: 43%;
+    border: 1px solid #0D3252;
+    float: left;
+    margin: 4px;
+}
+.cstm-text {
+    width: 88%;
+    height: 114px;
+    margin: 4px;
+    background: #0D3252;
+    margin-bottom: 13px;
+}
+.btn-one {
+    background: #30D0C1;
+    margin-left: 266px;
+    padding: 7px;
+    color: #ffff;
+    border: none;
+}
+
+/*text section end*/
+
+/*footer section start*/
+footer {
+    width: 100%;
+    float: left;
+    background: #344B8E;
+    padding: 18px 0px;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    float: left;
+    display: inline-block;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #ffff;
+    margin: 52px;
+}
